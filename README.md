@@ -1,22 +1,22 @@
-# Fedora39PostInstall
+# FedoraPostInstall
 
 ![FedoraPostInstallLogo](FedoraPostInstallLogo.png)
 
 ## Project Description
-Fedora39PostInstall is a small python utility that automates the installation and configuration of necessary components after installing the Fedora Linux 39 operating system.
+FedoraPostInstall is a small python utility that automates the installation and configuration of necessary components after installing the Fedora Linux operating system.
 
 ## Requirements
-To use the utility, you need to have the Fedora 39 operating system installed.
+To use the utility, you need to have the Fedora operating system installed.
 
 ## Installation
 1. Clone the repository:
     ```shell
-    git clone https://github.com/KawaiiGirl2001/Fedora39PostInstall.git
+    git clone https://github.com/KawaiiGirl2001/FedoraPostInstall
     ```
 
 2. Navigate to the project directory:
     ```shell
-    cd Fedora39PostInstall
+    cd FedoraPostInstall
     ```
 
 3. Run the utility:
